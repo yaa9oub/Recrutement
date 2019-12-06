@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Recruitement</string>
+
+    <string name="nom1">ASSISTANT CHEF DE PROJET - STAGE </string>
+    <string name="contexte1">
+        Au sein de l équipe Supply IT, nous déployons diverses applications autour de
+        l’entrepôt et du transport.
+        Pour documenter et accompagner le passage au RUN de
+        ces applications, nous recherchons un assistant chef de projet. </string>
+    <string name="mission1">
+        • Tu travailles au côté des équipes projet IT et RUN ;
+        • Tu développeras des extractions vers les autres produits de l’écosystème Leroy Merlin ;
+        • Tu participeras aux chantiers techniques de supervision, automatisation des déploiements et plan de production ;
+        • Tu seras chargé(e) de documenter et de vulgariser les procédures IT pour le RUN ;
+        • Tu rédigeras des cahiers de recette IT de non-régression à destination du RUN ;
+        • Tu cartographieras les flux et les process IT.
+    </string>
+    <string name="profil1">
+        • Tu es issu(e) d une formation supérieure IT ;
+        • Tu es autonome et organisé ;
+        • Tu as une appétence pour la logistique ;
+        • Tu es synthétique et à l’aise dans la rédaction de
+        documentation.
+    </string>
+
+
+    <string name="nom2">ENGINEER BI - STAGE</string>
+    <string name="contexte2">
+        Participation à l’alimentation et à l’exploitation de la Data Platform
+     </string>
+    <string name="mission2">
+        Au sein de l’équipe DATA Leroy Merlin, tes missions seront les suivantes :
+        • Tu travailles au contact des équipes métiers ;
+        • Tu proposes des solutions techniques innovantes ;
+        • Tu modélises et construis le socle Data ;
+        • Tu conçois et construis les solutions de restitutions.
+    </string>
+    <string name="profil2">
+        • Tu es issu(e) d’une formation supérieure ;
+        • Tu es dynamique, autonome et curieux/curieuse ;
+        • Tu possèdes une vraie aisance relationnelle ;
+        • La data n’a plus de secret pour toi !
+    </string>
+
+    <string name="nom3">DATA ENGINEER - STAGE</string>
+    <string name="contexte3">
+        Au sein de l équipe Supply IT, nous mettons en place une équipe sur la prévision
+de ventes (de la prévision initiale à la prévision fin de vie du produit). Pour
+renforcer l équipe, nous proposons un stage de data engineer.
+     </string>
+    <string name="mission3">
+        • Tu travailles au côté des équipes métier ;
+• Tu développes de nouveaux algorithmes de prévisions ;
+• Tu maintiens les algorithmes existants et feras des évolutions ;
+• Tu assures la cohérence statistique entre les différents algorithmes de
+prévision.
+    </string>
+    <string name="profil3">
+        • Tu es issu(e) d une formation supérieure ;
+• Tu as une appétence forte aux méthodes de prévisions de ventes ;
+• Tu as des connaissances sur Google Cloud Platform et python ou tu as envie
+d’apprendre ;
+• Tu es agile et force de proposition
+    </string>
+
+    <string name="nom4">DEVOPS - STAGE</string>
+    <string name="contexte4">
+        Au sein de l équipe Supply IT.
+     </string>
+    <string name="mission4">
+        Au sein de l’équipe OFFER Leroy Merlin, tu seras en charge de l’analyse du besoin,
+du développement et du déploiement d’une application pour des services internes
+et magasins. Tes missions seront les suivantes :
+• Développement d’un logiciel ;
+• Gestion de projet (méthode agile, récolte et rédaction des besoins du client,
+animation d’ateliers techniques) ;
+• Évolution du système d information ;
+• Audit fonctionnel d’utilisateurs du logiciel, architecture et conseil de
+stratégie SI.
+    </string>
+    <string name="profil4">
+        Tu es BAC+4 issu(e) d’une formation supérieure ;
+• Tu possèdes un goût prononcé pour la gestion de systèmes d’information et pour
+l’innovation ;
+• Tu es agile, force de proposition et excellent communicant ;
+• Tu es proactif et tu sais projeter tes activités dans un contexte en perpétuelle
+évolution.
+    </string>
+
+</resources>
