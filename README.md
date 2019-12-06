@@ -1,0 +1,3 @@
+# Recrutement
+
+Notre application permet l’utilisateur qui est principalement les étudiant nouveaux diplômés d’indiquer leurs compétences et leurs diplômes afin de montrer seulement les postes qui les concernes offert par l’entreprise. Une fois l’utilisateur est intéressé par un poste il peut l’enregistrer et le consulter ultérieurement. En consultant un offre d’emploi, soit enregistré ou directement dans l’accueil (après le filtrage selon leurs caractéristiques), l’utilisateur peut continuer la procédure de participation à l’entretient en indiquant son nom, prénom et tous les champs demandés qui seront enregistrés dans une base de données distante de l’entreprise pour choisir les bons profils des candidats.
